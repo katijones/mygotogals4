@@ -1,0 +1,33 @@
+body{
+    color:  black !important;
+    background-color:  honeydew !important;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1Abya1K9AFwCXKtoqfz_x7j4AZZuWdO8HQ&usqp=CAU) !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+}
+
+.common{
+    position: absolute;
+    background-color: white;
+    border: 2px solid black;
+}
+.header{
+    top: 895px
+   
+}
+.leftmenu{
+    top: 345px
+
+}
+.mainbody{
+    top: 100px
+    left: 200px 
+}
+.img{
+    border: 3px solid white;
+    padding: 10px
+}
+li:hover{
+    font-size: 5%;
+    background-color: lightpink;
+    font-size: larger;
+}
